@@ -231,8 +231,8 @@
 /I Editor\Kismet\Public
 /I ..\Intermediate\Build\Win64\UE4Editor\Inc\ClothingSystemRuntimeInterface
 /I Runtime\ClothingSystemRuntimeInterface\Public
-/I "C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01"
-/I "C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Source"
+/I "C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01"
+/I "C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Source"
 /I ThirdParty\PhysX3\PxShared\include
 /I ThirdParty\PhysX3\PxShared\include\cudamanager
 /I ThirdParty\PhysX3\PxShared\include\filebuf
@@ -262,12 +262,12 @@
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\shared"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\um"
 /I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22000.0\winrt"
-/FI"C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Intermediate\Build\Win64\TetrisUSFX01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Yu"C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Intermediate\Build\Win64\TetrisUSFX01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/Fp"C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Intermediate\Build\Win64\TetrisUSFX01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-"C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Source\TetrisUSFX01\Lodging.cpp"
-/FI"C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h"
-/Fo"C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Lodging.cpp.obj"
+/FI"C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\TetrisUSFX01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Yu"C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\TetrisUSFX01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
+/Fp"C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\TetrisUSFX01Editor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
+"C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Source\TetrisUSFX01\Lodging.cpp"
+/FI"C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h"
+/Fo"C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Lodging.cpp.obj"
 /TP
 /GR-
 /W4

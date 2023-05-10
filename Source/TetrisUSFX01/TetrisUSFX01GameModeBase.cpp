@@ -3,6 +3,10 @@
 /*Aquí se implementa el Singleton*/
 #include "TetrisUSFX01GameModeBase.h"
 #include "Board.h"
+#include "EscenarioFactory.h"
+#include "Escenario1.h"
+#include "Escenario2.h"
+#include "Escenario3.h"
 #include "Camera/CameraActor.h"
 #include "Kismet/GameplayStatics.h"
 #include "EngineUtils.h"
@@ -14,10 +18,27 @@ ATetrisUSFX01GameModeBase::ATetrisUSFX01GameModeBase() {
     siguientePosicionZ = 0;
 }
 
+IEscenarioFactory* IEscenarioFactory::getEscenario(int _numeroEscenario) {
+    if (_numeroEscenario == 1) {
+        return NewObject<AEscenario1>();
+    } else if (_numeroEscenario == 2) {
+		return NewObject<AEscenario2>();
+	} else if (_numeroEscenario == 3) {
+		return NewObject<AEscenario3>();
+    } else {
+        return nullptr;
+    }
+}
+
 void ATetrisUSFX01GameModeBase::BeginPlay()
 {
     
     Super::BeginPlay();
+    //FACTORY ESCENARIO
+    IEscenarioFactory* escenariocreado = IEscenarioFactory::getEscenario(FMath::RandRange(1, 3));
+    escenariocreado->crearEscenario();
+
+    //SINGLETON BOARD
     ABoard* instancia = ABoard::GetInstancia(); //Se crea la instancia de ABoard (solo una)
     ABoard* instancia2 = ABoard::GetInstancia(); //Se crea la instancia de ABoard (de nuevo, pero no se crea otra instancia, se usa la misma)
     FString direccion_puntero = FString::Printf(TEXT("Se ha spawneado un Board de tipo: %p"), instancia); //Se imprime la dirección de memoria de la direccion de memoria de instancia

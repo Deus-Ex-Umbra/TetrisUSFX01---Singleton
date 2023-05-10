@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\TetrisUSFX01.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{78530288-7C98-487B-8C49-4BA3525B28AA}</UniqueIdentifier>
+      <UniqueIdentifier>{9302FB74-7882-4689-AADA-64EB77428648}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\TetrisUSFX01.Target.cs">
       <Filter>Source</Filter>
@@ -15,7 +15,7 @@
     <None Include="..\..\.gitignore" />
     <None Include="..\..\README.md" />
     <Filter Include="Config">
-      <UniqueIdentifier>{54A65C7E-D196-4F0E-AAB5-E5699B65B9C5}</UniqueIdentifier>
+      <UniqueIdentifier>{1E401554-6018-48CA-83B0-87684B72E52D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -30,7 +30,7 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Source\TetrisUSFX01">
-      <UniqueIdentifier>{C1CF533D-9125-472F-96F0-A099B7338429}</UniqueIdentifier>
+      <UniqueIdentifier>{448DBFAB-3BAD-4AAC-8B9A-CA7126579E1B}</UniqueIdentifier>
     </Filter>
     <ClCompile Include="..\..\Source\TetrisUSFX01\Block.cpp">
       <Filter>Source\TetrisUSFX01</Filter>
@@ -90,6 +90,30 @@
       <Filter>Source\TetrisUSFX01</Filter>
     </ClCompile>
     <ClInclude Include="..\..\Source\TetrisUSFX01\Board.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Escenario1.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Escenario1.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Escenario2.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Escenario2.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\Escenario3.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\Escenario3.h">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\TetrisUSFX01\EscenarioFactory.cpp">
+      <Filter>Source\TetrisUSFX01</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\TetrisUSFX01\EscenarioFactory.h">
       <Filter>Source\TetrisUSFX01</Filter>
     </ClInclude>
     <ClCompile Include="..\..\Source\TetrisUSFX01\FloorPlan.cpp">

@@ -1,18 +1,18 @@
-C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Development\TetrisUSFX01\Definitions.TetrisUSFX01.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h
-C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Source\TetrisUSFX01/TetrisUSFX01GameModeBase.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Source\TetrisUSFX01/TetrisUSFX01GameModeBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
 C:\Program Files\Epic Games\UE_4.27\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
-C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Source\TetrisUSFX01\BlockHijo02.h
-C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Source\TetrisUSFX01\Block.h
-C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Block.generated.h
-C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\BlockHijo02.generated.h
-C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Source\TetrisUSFX01\Piece.h
-C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Source\TetrisUSFX01\BlockHijo01.h
-C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\BlockHijo01.generated.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Source\TetrisUSFX01\BlockHijo02.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Source\TetrisUSFX01\Block.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Block.generated.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\BlockHijo02.generated.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Source\TetrisUSFX01\Piece.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Source\TetrisUSFX01\BlockHijo01.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\BlockHijo01.generated.h
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\functional
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xmemory
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\limits
@@ -21,5 +21,5 @@ C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.3221
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\cstdio
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\isa_availability.h
 C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.35.32215\INCLUDE\xutility
-C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Piece.generated.h
-C:\Users\USUARIO\Desktop\Materias Universidad\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\TetrisUSFX01GameModeBase.generated.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\Piece.generated.h
+C:\Users\USUARIO\Desktop\Materias Universidad\SIS457\TetrisUSFX01-master\Intermediate\Build\Win64\UE4Editor\Inc\TetrisUSFX01\TetrisUSFX01GameModeBase.generated.h
